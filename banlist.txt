@@ -10,3 +10,7 @@
 45.226.245.0/24   # high freq TXT query spam
 45.233.59.0/24    # high freq TXT query spam
 186.225.146.0/24  # high freq TXT query spam
+45.160.178.0/24   # high freq TXT query spam
+45.160.176.0/24   # high freq TXT query spam
+45.160.177.0/24   # high freq TXT query spam
+45.160.179.0/24   # high freq TXT query spam
