@@ -8,3 +8,4 @@
 206.62.59.0/24    # high freq TXT query spam
 45.181.236.0/24   # high freq TXT query spam
 45.226.245.0/24   # high freq TXT query spam
+45.233.59.0/24    # high freq TXT query spam
