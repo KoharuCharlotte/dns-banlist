@@ -1,0 +1,9 @@
+177.37.83.0/24    # high freq TXT query spam
+138.118.133.0/24  # high freq TXT query spam
+45.190.128.0/24   # high freq TXT query spam
+177.21.47.0/24    # high freq TXT query spam
+206.62.56.0/24    # high freq TXT query spam
+206.62.57.0/24    # high freq TXT query spam
+206.62.58.0/24    # high freq TXT query spam
+206.62.59.0/24    # high freq TXT query spam
+45.181.236.0/24   # high freq TXT query spam
